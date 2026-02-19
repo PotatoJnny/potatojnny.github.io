@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.27)  9 MAR 2025 15:48
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.27)  19 FEB 2026 17:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -465,11 +465,11 @@ Overfull \hbox (8.87018pt too wide) in paragraph at lines 48--48
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 119.
+(hyperref)                removing `\\' on input line 123.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 119.
+(hyperref)                removing `\\' on input line 123.
 
 [1
 
@@ -479,12 +479,12 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 6140926F2586582D58983F0F6EBC2BBF;662.
+(rerunfilecheck)             Checksum: 3AC17F039CA35F66FE93D2524057EA4A;667.
  ) 
 Here is how much of TeX's memory you used:
  12211 strings out of 474773
  244398 string characters out of 5757724
- 1934839 words of memory out of 5000000
+ 1937839 words of memory out of 5000000
  34220 multiletter control sequences out of 15000+600000
  558693 words of font info for 70 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191

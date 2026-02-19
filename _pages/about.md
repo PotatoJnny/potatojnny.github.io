@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a first-year Ph.D. student in Statistics at the University of Toronto. 
+Hi! I am a second-year Ph.D. student in Statistics at the University of Toronto. 
 I am very fortunate to be advised by 
 <a href="https://mouwenlong.github.io/index.html" target="_blank">Prof. Wenlong Mou</a> 
 and 
@@ -26,9 +26,8 @@ I am also affiliated with the
 <a href="https://vectorinstitute.ai/" target="_blank">Vector Institute</a>. 
 Prior to my Ph.D. study, I received my B.S. in Statistics from Nanjing University in 2024.
 
-My research primarily focuses on the intersection of machine learning theory, statistics, 
-and optimization. Currently, I work on <strong>Reinforcement Learning</strong> and 
-<strong>Mean-Field Langevin Dynamics</strong>.
+My research focuses on designing <strong>statistically grounded</strong> machine learning algorithms that are both <strong>efficient</strong> and <strong>provably reliable</strong>, bridging theory and practice through optimization and statistical modeling. I currently work on <strong>LLM post-training</strong> and <strong>inference-time methods</strong> under <strong>limited feedback</strong>.
+
 
 Email: muheng [DOT] li [AT] mail [DOT] utoronto [DOT] ca
 
@@ -36,7 +35,11 @@ Email: muheng [DOT] li [AT] mail [DOT] utoronto [DOT] ca
 <span class="anchor" id="news"></span>
 
 ## News
-- *2025.02*: 1 paper was accepted by TMLR.  
+<ul>
+  <li><b>Feb 2026</b>, <a href="https://arxiv.org/abs/2602.01485">New preprint</a> on test-time scaling laws and budget-efficient inference-time search.</li>
+  <li><b>Feb 2025</b>, one paper accepted by <i>TMLR</i>.</li>
+</ul>
+
 
 
 
@@ -45,11 +48,15 @@ Email: muheng [DOT] li [AT] mail [DOT] utoronto [DOT] ca
 
 ## Publications
 
-1. **Reheated Gradient-based Discrete Sampling for Combinatorial Optimization**  
-   *Transactions on Machine Learning Research (TMLR), 2025*  
-   **Muheng Li**, Ruqi Zhang  
-   [arXiv:2503.04047](https://arxiv.org/abs/2503.04047)
+- **Predicting and Improving Test-time Scaling Laws via Reward Tail-guided Search**  
+  *Under review, 2026*  
+  **Muheng Li**, Jian Qian, Wenlong Mou  
+  [Paper](https://arxiv.org/abs/2602.01485) · [Code](https://github.com/PotatoJnny/Scaling-Law-Guided-search)
 
+- **Reheated Gradient-based Discrete Sampling for Combinatorial Optimization**  
+  *Transactions on Machine Learning Research (TMLR), 2025*  
+  **Muheng Li**, Ruqi Zhang  
+  [Paper](https://arxiv.org/abs/2503.04047)· [Code](https://github.com/PotatoJnny/ReSCO)
 
 
 
@@ -67,12 +74,15 @@ Email: muheng [DOT] li [AT] mail [DOT] utoronto [DOT] ca
 <span class="anchor" id="services"></span>
 
 ## Services
-- Conference Reviewer: UAI(2024)
+- **Conference Reviewer:** UAI (2024, 2025); ICML (2025); ICLR (2025)
+
 
 <span class="anchor" id="teaching"></span>
 
 ## Teaching
-- STA255:Statistical Theory(Winter 2025), Tutorial Teaching Assistant.
+- **STA314H1F: Statistical Methods for Machine Learning I** (Fall 2025), Teaching Assistant, University of Toronto.
+- **STA255: Statistical Theory** (Winter 2025), Teaching Assistant, University of Toronto.
+
 
 
 <!-- # 💻 Internships
