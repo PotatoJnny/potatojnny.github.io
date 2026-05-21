@@ -28,6 +28,8 @@ Prior to my Ph.D. study, I received my B.S. in Statistics from Nanjing Universit
 
 My research focuses on designing <strong>statistically grounded</strong> machine learning algorithms that are both <strong>efficient</strong> and <strong>provably reliable</strong>, bridging theory and practice through optimization and statistical modeling. I currently work on <strong>LLM post-training</strong> and <strong>inference-time methods</strong> under <strong>limited feedback</strong>.
 
+<strong>I am open to research internship opportunities related to LLM post-training.</strong>
+
 
 Email: muheng [DOT] li [AT] mail [DOT] utoronto [DOT] ca
 
@@ -36,6 +38,8 @@ Email: muheng [DOT] li [AT] mail [DOT] utoronto [DOT] ca
 
 ## News
 <ul>
+  <li><b>May 2026</b>, <a href="https://arxiv.org/abs/2605.10716">New preprint</a> on post-training optimization from a test-time scaling law perspective.</li>
+  <li><b>May 2026</b>, one paper accepted by <i>KDD 2026 D&amp;B Track</i>.</li>
   <li><b>Feb 2026</b>, <a href="https://arxiv.org/abs/2602.01485">New preprint</a> on test-time scaling laws and budget-efficient inference-time search.</li>
   <li><b>Feb 2025</b>, one paper accepted by <i>TMLR</i>.</li>
 </ul>
@@ -48,10 +52,20 @@ Email: muheng [DOT] li [AT] mail [DOT] utoronto [DOT] ca
 
 ## Publications
 
+- **What should post-training optimize? A test-time scaling law perspective**<br>
+  *Under review, 2026*<br>
+  **Muheng Li**, Jian Qian, Wenlong Mou<br>
+  [Paper](https://arxiv.org/abs/2605.10716)
+
 - **Predicting and Improving Test-time Scaling Laws via Reward Tail-guided Search**  
-  *Under review, 2026*  
+  *Under review, 2026*<br>
   **Muheng Li**, Jian Qian, Wenlong Mou  
   [Paper](https://arxiv.org/abs/2602.01485) · [Code](https://github.com/PotatoJnny/Scaling-Law-Guided-search)
+
+- **Solving Urban Network Security Games: Learning Platform, Benchmark, and Challenge for AI Research**<br>
+  *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026, D&amp;B Track)*<br>
+  Shuxin Zhuang, Shuxin Li, Tianji Yang, **Muheng Li**, Xianjie Shi, Bo An, Youzhi Zhang<br>
+  [Paper](https://arxiv.org/abs/2501.17559)
 
 - **Reheated Gradient-based Discrete Sampling for Combinatorial Optimization**  
   *Transactions on Machine Learning Research (TMLR), 2025*  
@@ -74,7 +88,7 @@ Email: muheng [DOT] li [AT] mail [DOT] utoronto [DOT] ca
 <span class="anchor" id="services"></span>
 
 ## Services
-- **Conference Reviewer:** UAI (2024, 2025); ICML (2025); ICLR (2025)
+- **Conference Reviewer:** UAI (2024, 2025); ICML (2025, 2026; Silver Reviewer in 2026); ICLR (2025)
 
 
 <span class="anchor" id="teaching"></span>
