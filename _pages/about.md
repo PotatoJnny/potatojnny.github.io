@@ -28,9 +28,6 @@ Prior to my Ph.D. study, I received my B.S. in Statistics from Nanjing Universit
 
 My research focuses on the <strong>statistical and computational foundations</strong> of machine learning. I currently work on <strong>LLM post-training</strong>, <strong>inference-time methods</strong>, and <strong>environments for AI agents</strong>. I am particularly interested in designing environments that help agents apply their coding and reasoning abilities to new domains, such as the natural sciences and engineering.
 
-<strong>I am open to research internship opportunities related to LLM post-training.</strong>
-
-
 Email: muheng [DOT] li [AT] mail [DOT] utoronto [DOT] ca
 
 
