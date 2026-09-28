@@ -26,7 +26,7 @@ I am also affiliated with the
 <a href="https://vectorinstitute.ai/" target="_blank">Vector Institute</a>. 
 Prior to my Ph.D. study, I received my B.S. in Statistics from Nanjing University in 2024.
 
-My research focuses on designing <strong>statistically grounded</strong> machine learning algorithms that are both <strong>efficient</strong> and <strong>provably reliable</strong>, bridging theory and practice through optimization and statistical modeling. I currently work on <strong>LLM post-training</strong> and <strong>inference-time methods</strong> under <strong>limited feedback</strong>.
+My research focuses on the <strong>statistical and computational foundations</strong> of machine learning. I currently work on <strong>LLM post-training</strong>, <strong>inference-time methods</strong>, and <strong>environments for AI agents</strong>. I am particularly interested in designing environments that help agents apply their coding and reasoning abilities to new domains, such as the natural sciences and engineering.
 
 <strong>I am open to research internship opportunities related to LLM post-training.</strong>
 
@@ -38,6 +38,7 @@ Email: muheng [DOT] li [AT] mail [DOT] utoronto [DOT] ca
 
 ## News
 <ul>
+  <li><b>Sep 2026</b>, two papers accepted by <i>NeurIPS 2026</i>.</li>
   <li><b>May 2026</b>, <a href="https://arxiv.org/abs/2605.10716">New preprint</a> on post-training optimization from a test-time scaling law perspective.</li>
   <li><b>May 2026</b>, one paper accepted by <i>KDD 2026 D&amp;B Track</i>.</li>
   <li><b>Feb 2026</b>, <a href="https://arxiv.org/abs/2602.01485">New preprint</a> on test-time scaling laws and budget-efficient inference-time search.</li>
@@ -53,12 +54,12 @@ Email: muheng [DOT] li [AT] mail [DOT] utoronto [DOT] ca
 ## Publications
 
 - **What should post-training optimize? A test-time scaling law perspective**<br>
-  *Under review, 2026*<br>
+  *Conference on Neural Information Processing Systems (NeurIPS 2026)*<br>
   **Muheng Li**, Jian Qian, Wenlong Mou<br>
   [Paper](https://arxiv.org/abs/2605.10716)
 
 - **Predicting and Improving Test-time Scaling Laws via Reward Tail-guided Search**  
-  *Under review, 2026*<br>
+  *Conference on Neural Information Processing Systems (NeurIPS 2026)*<br>
   **Muheng Li**, Jian Qian, Wenlong Mou  
   [Paper](https://arxiv.org/abs/2602.01485) · [Code](https://github.com/PotatoJnny/Scaling-Law-Guided-search)
 
@@ -88,7 +89,7 @@ Email: muheng [DOT] li [AT] mail [DOT] utoronto [DOT] ca
 <span class="anchor" id="services"></span>
 
 ## Services
-- **Conference Reviewer:** UAI (2024, 2025); ICML (2025, 2026; Silver Reviewer in 2026); ICLR (2025)
+- **Conference Reviewer:** UAI (2024, 2025); ICML (2025, 2026; Silver Reviewer in 2026); ICLR (2025); NeurIPS (2026)
 
 
 <span class="anchor" id="teaching"></span>
